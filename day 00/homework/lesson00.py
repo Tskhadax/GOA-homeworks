@@ -6,17 +6,16 @@ shape("turtle")
 
 width(7)
 color("purple")
+begin_fill()
 forward(200)
 left(90)
-
 forward(200)
 left(90)
-
 forward(200)
 left(90)
-
 forward(200)
 left(90)
+end_fill()
 
 #end of square
 
