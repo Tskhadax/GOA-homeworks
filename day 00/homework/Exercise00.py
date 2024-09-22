@@ -1,3 +1,5 @@
+# პითონში turtle ის გამოყენებით ააგეთ სახლი
+
 from turtle import *
 shape("turtle")
 #lets draw a house
