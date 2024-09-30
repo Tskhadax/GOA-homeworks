@@ -18,7 +18,7 @@ my_number = 10
 print(my_number)
 
 my_text = ("Hello World!")
-print(my_text)
+print(type(my_text))
 
 num1 = 5
 num2 = 15
@@ -45,4 +45,4 @@ num3 = 9
 num4 = 12
 num5 = 15
 
-print(num1 + num2 + num3 + num4 + num5 / 5)
+print((num1 + num2 + num3 + num4 + num5) / 5)

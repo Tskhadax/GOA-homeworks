@@ -3,6 +3,6 @@
 
 Name = input(" Enter your Name : ")
 Surname = input(" Enter your Surname : ")
-result = Name + Surname
+result = Name + " " + Surname
 
 print(result)
