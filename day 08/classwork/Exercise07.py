@@ -1,10 +1,9 @@
+print(True and True) #True
+print(True and False) #False
+print(False and False) #False
+print(True and False) #False
 
-print(4>6 and 5<10) #True
-print(6>1 and 4>5) #False
-print(7<4 and 99<87) #False
-print(2>1 and 9<5) #False
-
-print(4>6 or 5<10) #True
-print(6>1 or 3==1) #True
-print(7<4 or 99<87) #false
-print(2>1 or 9<5) #True
+print(True or True) #True
+print(True or False) #True
+print(False or False) #false
+print(True or False) #True
