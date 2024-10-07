@@ -2,7 +2,7 @@
 
 number = int(input("Enter number: "))
 
-if number > 0:
-    print("{0} is positive number".format(number))
+if number > 0 or number == 0:
+    print("number is positive")
 else:
-    print("{0} is negative number".format(number))
+    print("number is negative")
