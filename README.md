@@ -1,1 +1,1 @@
-welcome to my github Chad!
+Welcome to my GitHub Chad!
