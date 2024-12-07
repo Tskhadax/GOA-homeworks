@@ -2,8 +2,8 @@
 def well(x):
     for i in range(len(x)):
         if x.count("good") == 1 or x.count("good") == 2:
-            return "Pulish!"
+            return "Publish!"
         elif x.count("good") > 2:
-            return "i smell a series!"
+            return "I smell a series!"
         else:
             return "Fail!"

@@ -1,5 +1,5 @@
 #Code Wars
-geese = ["african","Roman Tufted","Toilouse","Piligrim"]
+geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"]
 def goose_filter(birds):
     for i in geese:
         for elements in birds:
